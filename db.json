@@ -1,0 +1,49 @@
+{
+    "comidas": [
+        {
+            "id":1,
+            "titulo":"COMIDA 1",
+            "enderecoImagem":"assets/comida.jpeg",
+            "descricao":"dsjdksjdks",
+            "valor":16
+        },
+        {
+            "id":2,
+            "titulo":"COMIDA 2",
+            "enderecoImagem":"assets/comida.jpeg",
+            "descricao":"dsjdksjdks",
+            "valor":16
+        },
+        {
+            "id":3,
+            "titulo":"COMIDA 2",
+            "enderecoImagem":"assets/comida.jpeg",
+            "descricao":"dsjdksjdks","valor":1
+        }
+    ],
+
+    "bebidas": [
+        {
+            "id":1,
+            "titulo":"BEBIDA 1",
+            "enderecoImagem":"assets/bebida.jpeg",
+            "descricao":"dlskdlskdslks",
+            "valor":10
+        },
+        {
+            "id":2,
+            "titulo":"BEBIDA 2",
+            "enderecoImagem":"assets/bebida.jpeg",
+            "descricao":"dlskdlss",
+            "valor":14
+        },
+        {
+            "id":3,
+            "titulo":"BEBIDA 3",
+            "enderecoImagem":"assets/bebida.jpeg",
+            "descricao":"dsjdksjdks","valor":16
+        }       
+    ]
+  }
+
+  
